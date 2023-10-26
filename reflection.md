@@ -2,3 +2,7 @@ Use this file to record your reflection on this assignment.
 
 - What are your initial impressions of how `Inheritance` affects your programming?
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+
+I find Inheritance a lot more efficient and concise. For example, I didn't have to add new attributes into the subclasses that overlap with Building, and instead called on super(). I also think it makes programming a lot more organized and clearer, because the code is neatly sorted into different classes. 
+
+What worked was calling on the super class constructor for each subclass and then initializing the specific attributes of each subclass after. I also think the program is able to work well without crashing or freezing. I was also able to use the Java documentation to guide me along using a Hashtable.  I found it confusing to print out the individual keys and values of the Hashtable, but when I was working with Dani Justo, I learned about the toString() method which printed out the title of the book and the checkout status. One advice I would give someone in the future is to use the Java documentation when coding, because it has been really helpful with constructing a Hashtable for the Library class for me.  
